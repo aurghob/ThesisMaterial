@@ -10,4 +10,5 @@
 9. learnedmodified285a.txt contains rules appended to learned.txt by modifying text according to rules in propbank.bk.<br/>
 10. The other learned modified files contain similar files but use 90% fuzzy matching.<br/>
 <br/>
-Pending: Add reference to Thesis document.
+
+Thesis document available [here](https://repository.asu.edu/attachments/221752/content/Bhattacharjee_asu_0010N_19329.pdf)
